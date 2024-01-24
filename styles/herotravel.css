@@ -1413,6 +1413,7 @@
     line-height: normal;
     position: absolute;
     top: 0;
+    white-space: nowrap;
   }
   
   .landing-page-design .group-60 {
