@@ -351,12 +351,14 @@ line-height: normal;
 }
 .landing-page-design .text-wrapper-11 {
   color: #FFF;
-text-align: center;
-font-family:Verdana, Geneva, Tahoma, sans-serif;
-font-size: 20px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+  white-space: nowrap;
+  color: #FFF;
+  text-align: center;
+  font-family: Mulish;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
 }
 .landing-page-design .group-9 {
   height: 126px;
@@ -836,16 +838,16 @@ line-height: normal;
   background-position: 50% 50%;
   background-size: cover;
   height: 500px;
-  left: 135px;
+  left: 0px;
   position: absolute;
-  top: 4692px;
+  top: 524px;
   width: 1170px;
 }
 .landing-page-design .group-32 {
   height: 52px;
-  left: 615px;
+  left: 480px;
   position: absolute;
-  top: 5240px;
+  top: 1072px;
   width: 210px;
 }
 .landing-page-design .group-33 {
@@ -858,24 +860,28 @@ line-height: normal;
   height: 52px;
   position: relative;
   width: 210px;
+  padding: 3px;
 }
 .landing-page-design .text-wrapper-27 {
   color: #ffffff;
+  white-space: nowrap;
   font-family: "Mulish-ExtraBold", Helvetica;
   font-size: 20px;
   font-weight: 800;
-  left: 21px;
+  left: 12px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 14px;
+  top: 10px;
+  color: #FFF;
+  font-style: normal;
 }
 .landing-page-design .group-34 {
   height: 424px;
-  left: 135px;
+  left: 0px;
   position: absolute;
-  top: 5392px;
+  top: 1192px;
   width: 540px;
 }
 .landing-page-design .text-wrapper-28 {
@@ -903,20 +909,14 @@ line-height: normal;
   width: 532px;
 }
 .landing-page-design .group-35 {
-  background-color: #ff5400;
+  border-radius: 8px;
+  background: #FF5400;
   border-radius: 8px;
   height: 52px;
   left: 0;
   position: absolute;
   top: 372px;
   width: 174px;
-}
-.landing-page-design .group-36 {
-  height: 25px;
-  left: 42px;
-  position: relative;
-  top: 14px;
-  width: 92px;
 }
 .landing-page-design .text-wrapper-29 {
   color: #131318;
@@ -947,9 +947,9 @@ line-height: normal;
   background-position: 50% 50%;
   background-size: cover;
   height: 424px;
-  left: 695px;
+  left: 555px;
   position: absolute;
-  top: 5392px;
+  top: 1192px;
   width: 610px;
 }
 .landing-page-design .overlap-9 {
@@ -994,7 +994,7 @@ line-height: normal;
   left: 24px;
   position: absolute;
   top: 355px;
-  width: 66px;
+  width: 100px;
 }
 .landing-page-design .group-43 {
   height: 24px;
@@ -1023,6 +1023,11 @@ line-height: normal;
   top: 355px;
   width: 104px;
 }
+.landing-page-design .gr45{
+  display: inline-flex;
+  gap: 2px; 
+  width: 20px;
+}
 .landing-page-design .group-46 {
   height: 72px;
   left: 167px;
@@ -1044,13 +1049,13 @@ line-height: normal;
   width: 276px;
 }
 .landing-page-design .overlap-10 {
-  background-image: url(../Images/Group\ 40071\ \(2\).png);
+  background-image: url(../Images/Rectangle\ 8\ \(1\).png);
   background-position: 50% 50%;
   background-size: cover;
   height: 422px;
-  left: 633px;
+  left: 500px;
   position: absolute;
-  top: 5916px;
+  top: 1716px;
   width: 672px;
 }
 .landing-page-design .group-47 {
@@ -1092,15 +1097,16 @@ line-height: normal;
   line-height: normal;
   position: absolute;
   top: 34px;
+  white-space: nowrap;
 }
 .landing-page-design .group-49 {
   border: 1px solid;
   border-color: #ff5400;
   border-radius: 16px;
   height: 422px;
-  left: 135px;
+  left: 0px;
   position: absolute;
-  top: 5916px;
+  top: 1716px;
   width: 474px;
 }
 .landing-page-design .group-50 {
@@ -1186,8 +1192,9 @@ line-height: normal;
   background-color: #1313180d;
   height: 502px;
   left: 0;
-  position: absolute;
-  top: 6438px;
+  text-align: center;
+  position:relative;
+  top: 538px;
   width: 1440px;
 }
 .landing-page-design .overlap-12 {
@@ -1205,12 +1212,13 @@ line-height: normal;
   width: 174px;
 }
 .landing-page-design .line-2 {
-  height: 1px;
   left: 0;
   object-fit: cover;
   position: absolute;
   top: 0;
+  width: 872px;
   width: 1320px;
+  height: 1px;
 }
 .landing-page-design .text-wrapper-36 {
   color: #5a5a5d;
