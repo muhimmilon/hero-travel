@@ -781,6 +781,7 @@ line-height: normal;
   position: absolute;
   top: 0;
   width: 145px;
+  display: inline-flex;
 }
 .landing-page-design .text-wrapper-26 {
   color: #5a5a5d;
@@ -808,7 +809,7 @@ line-height: normal;
   width: 101px;
 }
 .landing-page-design .group-29 {
-  background-image: url(./rectangle-12-2.png);
+  background-image: url(../Images/Group\ 40.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 500px;
@@ -831,7 +832,7 @@ line-height: normal;
   width: 579px;
 }
 .landing-page-design .group-31 {
-  background-image: url(./rectangle-12-3.png);
+  background-image: url(../Images/Group\ 39.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 500px;
@@ -942,7 +943,7 @@ line-height: normal;
   width: 518px;
 }
 .landing-page-design .group-37 {
-  background-image: url(./rectangle-10.png);
+  background-image: url(../Images/Group\ 40089.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 424px;
@@ -1043,7 +1044,7 @@ line-height: normal;
   width: 276px;
 }
 .landing-page-design .overlap-10 {
-  background-image: url(./rectangle-8.png);
+  background-image: url(../Images/Group\ 40071\ \(2\).png);
   background-position: 50% 50%;
   background-size: cover;
   height: 422px;
@@ -1256,13 +1257,15 @@ line-height: normal;
   color: #ff5400;
 }
 .landing-page-design .group-57 {
-  height: 40px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 47px;
+  width: 174.322px;
+  height: 24px;
+  flex-shrink: 0;
 }
 .landing-page-design .line-3 {
+  background: rgba(19, 19, 24, 0.10);
   height: 1px;
   left: 284px;
   object-fit: cover;
