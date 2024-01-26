@@ -331,8 +331,7 @@ line-height: normal;
   top: 746px;
   width: 540px;
 }
-.landing-page-design .group-7 {
-  background-color: #ff5400;
+.landing-page-design .group-71 {
   border-radius: 8px;
   height: 52px;
   left: 135px;
@@ -341,23 +340,23 @@ line-height: normal;
   width: 174px;
 }
 .landing-page-design .group-8 {
-  height: 25px;
-  left: 35px;
-  position: relative;
-  top: 14px;
-  width: 107px;
+  left: 135px;
+  position:absolute;
+  top: 1244px;
+  width: 174px;
+  height: 52px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #FF5400;
 }
 .landing-page-design .text-wrapper-11 {
-  color: #ffffff;
-  font-family: "Mulish-ExtraBold", Helvetica;
-  font-size: 20px;
-  font-weight: 800;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 0;
+  color: #FFF;
+text-align: center;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
 }
 .landing-page-design .group-9 {
   height: 126px;
@@ -435,7 +434,7 @@ line-height: normal;
   top: 0;
 }
 .landing-page-design .overlap-2 {
-  background-image: url(./rectangle-5.png);
+  background-image: url(../Images/Rectangle\ 5.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 300px;
@@ -457,7 +456,7 @@ line-height: normal;
   top: 131px;
 }
 .landing-page-design .overlap-3 {
-  background-image: url(./rectangle-10-2.png);
+  background-image: url(../Images/Rectangle\ 10.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 300px;
@@ -479,7 +478,7 @@ line-height: normal;
   top: 131px;
 }
 .landing-page-design .overlap-4 {
-  background-image: url(./rectangle-8-2.png);
+  background-image: url(../Images/Rectangle\ 8.png);
   background-size: 100% 100%;
   height: 300px;
   left: 732px;
@@ -500,7 +499,7 @@ line-height: normal;
   top: 131px;
 }
 .landing-page-design .overlap-5 {
-  background-image: url(./rectangle-6.png);
+  background-image: url(../Images/Rectangle\ 6.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 286px;
@@ -522,7 +521,7 @@ line-height: normal;
   top: 124px;
 }
 .landing-page-design .overlap-6 {
-  background-image: url(./rectangle-11.png);
+  background-image: url(../Images/Rectangle\ 11.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 300px;
@@ -544,7 +543,7 @@ line-height: normal;
   top: 131px;
 }
 .landing-page-design .overlap-7 {
-  background-image: url(./rectangle-9.png);
+  background-image: url(../Images/Rectangle\ 9.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 286px;
@@ -566,7 +565,7 @@ line-height: normal;
   top: 124px;
 }
 .landing-page-design .overlap-8 {
-  background-image: url(./rectangle-7.png);
+  background-image: url(../Images/Rectangle\ 7.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 286px;
@@ -677,7 +676,7 @@ line-height: normal;
   width: 573px;
 }
 .landing-page-design .group-18 {
-  background-image: url(./rectangle-12.png);
+  background-image: url(../Images/Group\ 39.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 500px;
